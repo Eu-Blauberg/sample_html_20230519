@@ -18,7 +18,7 @@ a {
 }
 
 body {
-    font-family: sans-serif;
+    font-family: 'Darumadrop One', cursive;
     font-size: 16pt;
     color: #000000;
     line-height: 1;
@@ -60,7 +60,7 @@ img {
 }
 
 .site-menu ul li a {
-    font-family: 'Zen Antique Soft', serif;
+    font-family: 'Darumadrop One', cursive;
 }
 
 .footer {
