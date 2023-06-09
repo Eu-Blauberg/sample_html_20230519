@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 .first-view {
-    height: calc(100vh – 110px);
+    height: calc(100vh - 110px);
     background: url(../images/index/bg-main.jpg);
     background-repeat: no-repeat;
     background-position: center center;
@@ -9,7 +9,6 @@
     display: flex;
     align-items: center;
 }
-
 
 .first-view-text {
     width: 100%;
@@ -24,7 +23,7 @@
 }
 
 .first-view-text h1 {
-    font-family: ‘Montserrat’, sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 56px;
     line-height: 72px;
 }
