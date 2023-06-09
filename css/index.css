@@ -2,13 +2,14 @@
 
 .first-view {
     height: calc(100vh – 110px);
-    background: url(../images/index/bg_main.png);
+    background: url(../images/index/bg-main.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     display: flex;
     align-items: center;
 }
+
 
 .first-view-text {
     width: 100%;
