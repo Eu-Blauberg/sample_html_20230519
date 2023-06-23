@@ -29,13 +29,13 @@
     padding-right: 60px;
     justify-content: space-around;
     align-items: stretch;
+    overflow: scroll;
 }
 
 .member-list li {
     flex-shrink: 0;
     width: 260px;
     margin-left: 75px;
-    overflow: scroll;
 }
 
 .member-list li:first-child {
